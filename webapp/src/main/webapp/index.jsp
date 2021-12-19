@@ -1,3 +1,3 @@
-<h1> RahulShettyAcademy.com Learning</h1>
-<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
-<h2> Good Luck and we are almost done with the course.Thankyou</h2>
+<h1> Welcome To Itern Training</h1>
+<h2> You see this because you have successfully set up your webapp.war</h2>
+<h3> Congratulations and keep learning</h3>
